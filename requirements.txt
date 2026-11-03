@@ -6,3 +6,4 @@ ipykernel
 tavily-python
 python-dotenv
 langchain_quickjs
+streamlit
